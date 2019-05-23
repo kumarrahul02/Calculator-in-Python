@@ -1,0 +1,15 @@
+print("enter two number")
+a=int(input("first number"))
+b=int(input("second number"))
+#sum
+print(a+b)
+#minus
+print(a-b)
+#multiply
+print(a*b)
+#divide
+print(a/b)
+#power
+print(a**b)
+#divide with integer 
+print(a//b)
